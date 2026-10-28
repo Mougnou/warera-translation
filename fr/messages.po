@@ -459,11 +459,11 @@ msgstr "{freeMoves} gratuit"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
-msgstr ""
+msgstr "{gain} tous les {perDays} jours dans la même entreprise"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:51
 msgid "{gain} every {perDays} days at the same company, up to {cap}"
-msgstr ""
+msgstr "{gain} tous les {perDays} jours dans la même entreprise, jusqu’à {cap}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1168
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
@@ -1745,11 +1745,11 @@ msgstr "{premiumMonthsCount, plural, one {# mois} other {# mois}}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:115
 msgid "{production} alongside {partner}"
-msgstr ""
+msgstr "{production} aux côtés de {partner}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:90
 msgid "{production} and {mood} while producing {good}"
-msgstr ""
+msgstr "{production} et {mood} lors de la production de {good}"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:280
 #: src/components/_political/map/MapMenu.tsx:193
@@ -2471,35 +2471,35 @@ msgstr "<0>-{0}%</0> Croissance de résistance par heure"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:760
 msgid "<0>-1%</0> per 1% of employee tax, up to <1>-30%</1>"
-msgstr ""
+msgstr "<0>-1 %</0> par 1 % de taxe sur les employés, jusqu’à <1>-30 %</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:670
 msgid "<0>-1</0> to all stats every 20 days at the same company, up to <1>-3</1>"
-msgstr ""
+msgstr "<0>-1</0> à toutes les statistiques tous les 20 jours dans la même entreprise, jusqu’à <1>-3</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:453
 msgid "<0>-15%</0> alongside their nemesis"
-msgstr ""
+msgstr "<0>-15 %</0> aux côtés de son ennemi juré"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:520
 msgid "<0>-15%</0> per female coworker, up to <1>-30%</1>"
-msgstr ""
+msgstr "<0>-15 %</0> par collègue féminine, jusqu’à <1>-30 %</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:506
 msgid "<0>-15%</0> per male coworker, up to <1>-30%</1>"
-msgstr ""
+msgstr "<0>-15 %</0> par collègue masculin, jusqu’à <1>-30 %</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:608
 msgid "<0>-20%</0> until storage reaches level <1>3</1>"
-msgstr ""
+msgstr "<0>-20 %</0> jusqu’à ce que le stockage atteigne le niveau <1>3</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:646
 msgid "<0>-30%</0> for 3 days after a transfer"
-msgstr ""
+msgstr "<0>-30 %</0> pendant 3 jours après un transfert"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:850
 msgid "<0>-50%</0> below {quitThreshold} happiness"
-msgstr ""
+msgstr "<0>-50 %</0> en dessous de {quitThreshold} de bonheur"
 
 #. placeholder {0}: sideBonus.muHqBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:157
@@ -2520,31 +2520,31 @@ msgstr "<0>{0}</0> contre l'ennemi de <1/>"
 #. placeholder {1}: 10
 #: src/components/_economy/employee/employee.frontConfig.tsx:714
 msgid "<0>{0}</0> and <1>{1}</1> in a homeland core region"
-msgstr ""
+msgstr "<0>{0}</0> et <1>{1}</1> dans une région centrale de leur patrie"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -5
 #: src/components/_economy/employee/employee.frontConfig.tsx:266
 msgid "<0>{0}</0> and <1>{1}</1> when any coworker is foreign"
-msgstr ""
+msgstr "<0>{0}</0> et <1>{1}</1> lorsqu’un collègue est étranger"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:248
 msgid "<0>{0}</0> and <1>{1}</1> when half or more coworkers are compatriots"
-msgstr ""
+msgstr "<0>{0}</0> et <1>{1}</1> lorsque la moitié ou plus des collègues sont des compatriotes"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:732
 msgid "<0>{0}</0> and <1>{1}</1> when working abroad"
-msgstr ""
+msgstr "<0>{0}</0> et <1>{1}</1> lorsqu’ils travaillent à l’étranger"
 
 #. placeholder {0}: 3
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:536
 msgid "<0>{0}</0> and <1>{1}</1> while producing their good"
-msgstr ""
+msgstr "<0>{0}</0> et <1>{1}</1> lors de la production de leur bien"
 
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:67
@@ -2582,7 +2582,7 @@ msgstr "<0>{0}</0> de frais remboursés à l'UM."
 #: src/components/_economy/employee/employee.frontConfig.tsx:351
 #: src/components/_economy/employee/employee.frontConfig.tsx:411
 msgid "<0>{0}</0> for themselves"
-msgstr ""
+msgstr "<0>{0}</0> pour eux-mêmes"
 
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
@@ -2624,43 +2624,43 @@ msgstr "<0>{0}</0> points de terrain sont requis pour gagner une manche, les poi
 #. placeholder {0}: -1
 #: src/components/_economy/employee/employee.frontConfig.tsx:578
 msgid "<0>{0}</0> on anything manufactured"
-msgstr ""
+msgstr "<0>{0}</0> sur tout produit manufacturé"
 
 #. placeholder {0}: 3
 #: src/components/_economy/employee/employee.frontConfig.tsx:554
 msgid "<0>{0}</0> on manufactured goods"
-msgstr ""
+msgstr "<0>{0}</0> sur les produits manufacturés"
 
 #. placeholder {0}: -1
 #. placeholder {0}: 3
 #: src/components/_economy/employee/employee.frontConfig.tsx:560
 #: src/components/_economy/employee/employee.frontConfig.tsx:572
 msgid "<0>{0}</0> on raw resources"
-msgstr ""
+msgstr "<0>{0}</0> sur les ressources brutes"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 6
 #: src/components/_economy/employee/employee.frontConfig.tsx:682
 msgid "<0>{0}</0> per 10 years past 40, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> par tranche de 10 ans au-delà de 40 ans, jusqu’à <1>{1}</1>"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -6
 #: src/components/_economy/employee/employee.frontConfig.tsx:699
 msgid "<0>{0}</0> per 10 years past 50, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> par tranche de 10 ans au-delà de 50 ans, jusqu’à <1>{1}</1>"
 
 #. placeholder {0}: -5
 #. placeholder {1}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:429
 msgid "<0>{0}</0> per better-paid coworker, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> par collègue mieux payé, jusqu’à <1>{1}</1>"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 4
 #: src/components/_economy/employee/employee.frontConfig.tsx:279
 msgid "<0>{0}</0> per foreign nationality among coworkers, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> par nationalité étrangère parmi les collègues, jusqu’à <1>{1}</1>"
 
 #. placeholder {0}: 1
 #: src/components/_user/user/UserSkills.tsx:217
@@ -2686,12 +2686,12 @@ msgstr "<0>{0}</0> Capacité de stockage"
 #: src/components/_economy/employee/employee.frontConfig.tsx:904
 #: src/components/_economy/employee/employee.frontConfig.tsx:918
 msgid "<0>{0}</0> to every coworker"
-msgstr ""
+msgstr "<0>{0}</0> à chaque collègue"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:345
 msgid "<0>{0}</0> to every weaker coworker"
-msgstr ""
+msgstr "<0>{0}</0> à chaque collègue plus faible"
 
 #. placeholder {0}: levelsConfig[level + 1].xp - myXp
 #. placeholder {1}: level + 1
@@ -2702,32 +2702,32 @@ msgstr "<0>{0}</0> au niveau {1}"
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:399
 msgid "<0>{0}</0> when they are not"
-msgstr ""
+msgstr "<0>{0}</0> lorsqu’ils ne le sont pas"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:744
 msgid "<0>{0}</0> when working abroad"
-msgstr ""
+msgstr "<0>{0}</0> lorsqu’ils travaillent à l’étranger"
 
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:316
 msgid "<0>{0}</0> when working alone"
-msgstr ""
+msgstr "<0>{0}</0> lorsqu’ils travaillent seuls"
 
 #. placeholder {0}: -1
 #: src/components/_economy/employee/employee.frontConfig.tsx:383
 msgid "<0>{0}</0> while nobody out-produces them"
-msgstr ""
+msgstr "<0>{0}</0> tant que personne ne produit plus qu’eux"
 
 #. placeholder {0}: 3
 #: src/components/_economy/employee/employee.frontConfig.tsx:377
 msgid "<0>{0}</0> while somebody out-produces them"
-msgstr ""
+msgstr "<0>{0}</0> lorsqu’une personne produit plus qu’eux"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:773
 msgid "<0>{0}</0> with employee tax at 20% or more"
-msgstr ""
+msgstr "<0>{0}</0> lorsque la taxe sur les employés atteint au moins 20 %"
 
 #. placeholder {0}: lawConfig.maintenanceCost
 #: src/components/_political/law/Law.tsx:125
@@ -2770,56 +2770,56 @@ msgstr "<0>{v}</0> Responsabilité = <1>{shieldPct}% de</1> perte de <2>Bonheur<
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:931
 msgid "<0>+1</0> candidate on every company's daily shortlist"
-msgstr ""
+msgstr "<0>+1</0> candidat sur la liste quotidienne de présélection de chaque entreprise"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:658
 msgid "<0>+1</0> to one stat every 10 days at the same company, up to <1>+4</1>"
-msgstr ""
+msgstr "<0>+1</0> à une statistique tous les 10 jours dans la même entreprise, jusqu’à <1>+4</1>"
 
 #. placeholder {0}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:296
 msgid "<0>+100%</0> and <1>{0}</1> when working alone"
-msgstr ""
+msgstr "<0>+100 %</0> et <1>{0}</1> lorsqu’ils travaillent seuls"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:441
 msgid "<0>+15%</0> alongside their friend"
-msgstr ""
+msgstr "<0>+15 %</0> aux côtés de leur ami"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:478
 msgid "<0>+15%</0> per female coworker, up to <1>+30%</1>"
-msgstr ""
+msgstr "<0>+15 %</0> par collègue féminine, jusqu’à <1>+30 %</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:492
 msgid "<0>+15%</0> per male coworker, up to <1>+30%</1>"
-msgstr ""
+msgstr "<0>+15 %</0> par collègue masculin, jusqu’à <1>+30 %</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:634
 msgid "<0>+20%</0> after 30 days at the same company"
-msgstr ""
+msgstr "<0>+20 %</0> après 30 jours dans la même entreprise"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:465
 msgid "<0>+20%</0> alongside their sweetheart"
-msgstr ""
+msgstr "<0>+20 %</0> aux côtés de leur amoureux"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:395
 msgid "<0>+20%</0> when paid more than every coworker"
-msgstr ""
+msgstr "<0>+20 %</0> lorsqu’ils sont mieux payés que tous leurs collègues"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:311
 msgid "<0>+25%</0> per coworker, up to <1>+50%</1>"
-msgstr ""
+msgstr "<0>+25 %</0> par collègue, jusqu’à <1>+50 %</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:234
 msgid "<0>+25%</0> while holding no tool"
-msgstr ""
+msgstr "<0>+25 %</0> lorsqu’ils ne tiennent aucun outil"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:222
 msgid "<0>+40%</0> while holding a tool"
-msgstr ""
+msgstr "<0>+40 %</0> lorsqu’ils tiennent un outil"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:622
 msgid "<0>+50%</0> on their first day in a company"
-msgstr ""
+msgstr "<0>+50 %</0> lors de leur premier jour dans une entreprise"
 
 #: src/components/_layout/loadingTips.tsx:225
 msgid "<0>Armor</0> and <1>Dodge</1> have diminishing returns: each point is worth a bit less than the one before."
@@ -2880,7 +2880,7 @@ msgstr "<0>Se remplit de <1>Points de production</1> lorsque tu travailles, grâ
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:824
 msgid "<0>Half</0> Happiness losses"
-msgstr ""
+msgstr "<0>Moitié</0> des pertes de bonheur"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:400
 msgid "<0>Health</0> to fight, <1>Hunger</1> to eat."
@@ -2892,7 +2892,7 @@ msgstr "La <0>Chance</0>: trouve les boîtes à outils"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:847
 msgid "<0>Never</0> quits"
-msgstr ""
+msgstr "<0>Ne démissionne jamais</0>"
 
 #: src/components/_layout/loadingTips.tsx:199
 msgid "<0>Precision</0> caps at 100%: every point above turns into <1>{precisionOverflow}</1>."
@@ -2922,11 +2922,11 @@ msgstr "Le <0>mécontentement</0> représente la tension interne dans le pays.<1
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:590
 msgid "<0>x2</0> specialization speed"
-msgstr ""
+msgstr "<0>x2</0> vitesse de spécialisation"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:881
 msgid "<0>x2</0> toolbox chance and cap"
-msgstr ""
+msgstr "<0>x2</0> chance d’obtenir une boîte à outils et limite maximale"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:113
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
@@ -6288,7 +6288,7 @@ msgstr "Dégâts critiques"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:870
 msgid "Critical event outcomes, good or bad, twice as often"
-msgstr ""
+msgstr "Les événements critiques, positifs ou négatifs, se produisent deux fois plus souvent"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:194
 msgid "Critical failure"
@@ -7633,15 +7633,15 @@ msgstr "Salaire attendu <0>-{0}%</0>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:800
 msgid "Expects <0>15%</0> less pay than the market rate"
-msgstr ""
+msgstr "S’attend à un salaire inférieur de <0>15 %</0> au taux du marché"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:811
 msgid "Expects <0>2%</0> more pay for every week hired"
-msgstr ""
+msgstr "S’attend à un salaire supérieur de <0>2 %</0> pour chaque semaine d’ancienneté"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:789
 msgid "Expects <0>20%</0> more pay than the market rate"
-msgstr ""
+msgstr "S’attend à un salaire supérieur de <0>20 %</0> au taux du marché"
 
 #: src/components/_user/milestone/milestone.frontConfig.tsx:28
 msgid "Experience"
@@ -9679,7 +9679,7 @@ msgstr "Les laisser se porter volontaires."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:942
 msgid "Lets every coworker train <0>2</0> times a day"
-msgstr ""
+msgstr "Permet à chaque collègue de s’entraîner <0>2</0> fois par jour"
 
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:134
@@ -11261,7 +11261,7 @@ msgstr "Pas encore de classement de terrain."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:600
 msgid "No Happiness loss when storage is full"
-msgstr ""
+msgstr "Aucune perte de bonheur lorsque le stockage est plein"
 
 #: src/components/_economy/inventory/Inventory.tsx:525
 msgid "No helmets"
@@ -12993,7 +12993,7 @@ msgstr "Quitter"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:835
 msgid "Quits below <0>{flightRiskQuitThreshold}</0> happiness instead of {quitThreshold}"
-msgstr ""
+msgstr "Démissionne en dessous de <0>{flightRiskQuitThreshold}</0> de bonheur au lieu de {quitThreshold}"
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
@@ -14804,7 +14804,7 @@ msgstr "Acier"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:895
 msgid "Still finds toolboxes when storage is full"
-msgstr ""
+msgstr "Trouve toujours des boîtes à outils même lorsque le stockage est plein"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Stockpiler"
